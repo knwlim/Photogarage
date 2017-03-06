@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\lkw\desktop\2013112106\consoleapplication1\bmpimage.h(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\lkw\desktop\2013112106\consoleapplication1\bmpimage.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\lkw\desktop\2013112106\consoleapplication1\source.c(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lkw\desktop\2013112106\consoleapplication1\source.c(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lkw\desktop\2013112106\consoleapplication1\source.c(33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lkw\desktop\2013112106\consoleapplication1\source.c(34): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\LKW\Desktop\2013112106\Debug\ConsoleApplication1.exe
